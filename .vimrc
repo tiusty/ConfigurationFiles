@@ -1,3 +1,4 @@
+set backspace=2
 set tags=tags;
 set shiftwidth=4
 " Num of spaces in tab when editing
